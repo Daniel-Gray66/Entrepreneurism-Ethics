@@ -4,7 +4,7 @@ Assignment: This project examines the practice of ethics in modern startups and 
 
 Roles:
 
-Item1: Ethical Business Plan  Daniel
-Item2: Cultural Policy        Delilah
-Item 3: Ethics Policy         Mei 
-Item 4: YouTube Presentation  Tochi 
+<li>Daniel - Item1: Ethical Business Plan  
+<li>Delilah - Item2: Cultural Policy        
+<li>Mei - Item 3: Ethics Policy         
+<li>Tochi - Item 4: YouTube Presentation  
