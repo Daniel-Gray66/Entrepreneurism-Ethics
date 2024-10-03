@@ -9,8 +9,7 @@ This project examines the practice of ethics in modern startups and entrepreneur
 - [@Daniel-Gray66](https://www.github.com/Daniel-Gray66)
 - [@lilahmedina](https://www.github.com/lilahmedina)
 - [@meisediqi](https://www.github.com/meisediqi)
-- [@Tumozurike]
-(https://github.com/Tumozurike)
+- [@Tumozurike](https://github.com/Tumozurike)
 
 ## Badges
 
