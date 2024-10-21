@@ -1,0 +1,19 @@
+  For objective one we will determine determinating the metric in which its 
+succesful is pretty straight forward. We will implement a feature whether where the 
+user can tell us whether or not the infomration provided is really the same person. We will 
+constantly improving the Ai face recognition software so that this issue slowly gets better overtime.
+
+  There really isn't a metric for the app being accesable nationwide, but I guess we can try to implement features such that 
+no state feels like they need to ban it. These features could include, making sure not to sell private data, making sure the data provided is correct,
+and adding some user survey to help us identify the problems or areas where which we could improve. 
+ 
+  The way we're going to measure the success of data security will be simply knowing which accounts have been compromised in our system.
+We will build a system that notifies when a possible hacker is trying to get into someone elses account taht isnt theres. 
+We will be implenting a chaing password policy every couple of months or so, just to make sure that if someone gets a password it wouldn't really matter in the long term.
+Or perhaps we implent a system where a password isn't even an option and the only way to sign in would be through fingerr print.
+
+
+Our metric regarind legality and legal security will be simply listing all federal, and legal agencies that we are currently partnered with. 
+Showing this in app, would convery the fact that our services are legal and that all infomration is safe on our app.
+We can measure the amount of incidents related to data privacy and calcualte the percentage of legal reviews that pass without regarding major changes or penalties.
+
