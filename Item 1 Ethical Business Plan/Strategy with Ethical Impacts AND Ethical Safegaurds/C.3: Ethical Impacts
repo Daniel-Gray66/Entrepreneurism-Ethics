@@ -1,6 +1,5 @@
   The ethical impacts of our first OKR could be that the app has access and displays sensitive public 
-information (e.g., criminal records, addresses, employment) about individuals. Even if the data is publicly
-available, automating access through a photo recognition system amplifies privacy risks. There is also a risk of misidentifying 
+information about individuals. Even if the data is publicly available, automating access through a photo recognition system amplifies privacy risks. There is also a risk of misidentifying 
 individuals, particularly in cases where they might look very simillar. This can lead to incorrect data being displayed, which
 could damage reputations or even make innocent people look guilty.
 
