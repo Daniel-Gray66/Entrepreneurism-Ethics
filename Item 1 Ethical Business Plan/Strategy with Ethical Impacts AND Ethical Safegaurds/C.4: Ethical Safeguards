@@ -1,0 +1,23 @@
+Ethical safegaurds that can effect the accuracy of our ai model working can include,
+collectiong diverse datasets to try to reduce bias misidnetifying some people. We will most likely need to implement a second verification step
+where the user can be displayed with another picture of said person jsut so that they could confirm its them.
+Another way of preventing bias in our system Life Lens should require our model to train with over one thousand images in our data set. 
+Our as many pictures it takes so that we don't overfit the model, this may casue less bias and miss identification to occur. Life Lens need to create
+a monthy report to see if the model is really working the way it should be. Collect data that show its success rate in positively identifying the person.
+
+Ethical safegaurds regarding the expantion of the app nationwide, Life Lens will encounter varying data privacy laws.Life Lens 
+should hire a dedicated legal team to conduct a legal review for each state before the app is launched. This will help ensure
+compliance with local regulations and ensure everything is legal from the start. Partners with at least five federal or state agencies, as planned, but also establish
+an independent legal advisory board to continuously assess everything is compliant. Implement an automated system that continuously monitors
+updates to data protection laws and ensures that Life Lens stays compliant by updating its terms of service and practices in real time
+
+To maintain a zero-breach record, it is critical to continuously monitor, and test the security infrastructure. Life Lens will be conducting 
+quarterly vulnerability and security audits to identify and mitigate any weaknesses in the system. Develop a response team dedicated to
+identifying potential breaches, responding rapidly, and patching vulnerabilities immediately. Regularly educate the Life Lens development and 
+operations teams on the latest security protocols and best practices.
+
+Life Lens will ensure that all data sourced is legally accessible by conducting thorough due diligence on data sources. We will first 
+hire a legal team or partner with external legal experts to regularly audit the data sources used in the app. This team will also handle with privacy rights,
+ensure that all information is gathered legally. 
+
+
